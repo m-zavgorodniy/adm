@@ -1,0 +1,6 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
+    <context-param>
+        <param-name>mongodbConnectString</param-name>
+        <param-value>mongodb://max:2UbwJ2koHiGNMvCk@cluster0-shard-00-00-mqypc.mongodb.net:27017,cluster0-shard-00-01-mqypc.mongodb.net:27017,cluster0-shard-00-02-mqypc.mongodb.net:27017/adm?ssl=true&amp;replicaSet=Cluster0-shard-0&amp;authSource=admin&amp;retryWrites=true</param-value>
+    </context-param>
+</web-app>
